@@ -1,0 +1,12 @@
+[package]
+name = "grrs"
+version = "0.1.0"
+authors = ["Matthew Dews <matthew-dews@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+sacn = "0.4.4"
+structopt = "0.2.10"
+failure = "0.1.5"
+exitfailure = "0.5.1"
+schedule_recv = "0.1.0"
